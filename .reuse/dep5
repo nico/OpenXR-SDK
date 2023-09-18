@@ -66,7 +66,8 @@ Files: src/external/jnipp/*
 Copyright: 2016-2020, Mitchell Dowd
   2020, Collabora, Ltd.
 License: MIT
-Comment: Unmodified, vendored copy of commit e6c415837c5a487809fdbb2f71f1080d454eb99a
+Comment: Vendored copy of commit e6c415837c5a487809fdbb2f71f1080d454eb99a
+  with https://github.com/mitchdowd/jnipp/pull/40 cherry-picked
 
 Files: external/python/jinja2/*
   external/python/Jinja2-2.10.3.dist-info/*
